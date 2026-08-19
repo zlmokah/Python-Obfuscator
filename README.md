@@ -12,6 +12,7 @@ A lightweight Python tool that packages a Python script into a small extractor t
 4. The extractor splits the code into multiple temporary files at runtime
 5. It reconstructs and executes the original Python code
 6. Temporary files are removed after execution
+<img width="807" height="405" alt="image" src="https://github.com/user-attachments/assets/532c81bb-ac10-4ffc-8676-f3bde473eb3f" />
 
 ## Features
 
