@@ -2,6 +2,8 @@
 
 A lightweight Python tool that packages a Python script into a small extractor that reconstructs and runs the original code at runtime.
 
+<img width="400" height="250" alt="image" src="https://github.com/user-attachments/assets/b37d7c99-5283-494c-bfb2-f01f30dc1e3a" />
+
 ## What does it do?
 
 1. You select a Python `.py` file
